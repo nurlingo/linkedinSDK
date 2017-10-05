@@ -28,15 +28,15 @@
  2. use LISDKAPIHelper or LISDKDeeplinkHelper to make API calls or to perform deep link operations
  
  */
-#include <linkedin-sdk/LISDKSessionManager.h>
-#include <linkedin-sdk/LISDKSession.h>
-#include <linkedin-sdk/LISDKAccessToken.h>
-#include <linkedin-sdk/LISDKAPIError.h>
-#include <linkedin-sdk/LISDKAPIHelper.h>
-#include <linkedin-sdk/LISDKAPIResponse.h>
-#include <linkedin-sdk/LISDKCallbackHandler.h>
-#include <linkedin-sdk/LISDKDeeplinkHelper.h>
-#include <linkedin-sdk/LISDKErrorCode.h>
-#include <linkedin-sdk/LISDKPermission.h>
+#include <LinkedinSDK/LISDKSessionManager.h>
+#include <LinkedinSDK/LISDKSession.h>
+#include <LinkedinSDK/LISDKAccessToken.h>
+#include <LinkedinSDK/LISDKAPIError.h>
+#include <LinkedinSDK/LISDKAPIHelper.h>
+#include <LinkedinSDK/LISDKAPIResponse.h>
+#include <LinkedinSDK/LISDKCallbackHandler.h>
+#include <LinkedinSDK/LISDKDeeplinkHelper.h>
+#include <LinkedinSDK/LISDKErrorCode.h>
+#include <LinkedinSDK/LISDKPermission.h>
 
 #endif
