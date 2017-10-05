@@ -1,0 +1,6 @@
+framework module LinkedinSDK {
+  umbrella header "LinkedinSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

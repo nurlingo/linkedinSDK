@@ -1,0 +1,22 @@
+{
+  "name": "LinkedinSDK",
+  "version": "0.1.0",
+  "summary": "A short description of LinkedinSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nurlingo/LinkedinSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nurlingo": "nursultan@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/nurlingo/LinkedinSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LinkedinSDK/Classes/**/*"
+}
