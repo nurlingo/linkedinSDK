@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LinkedinSDK_Tests' do
+  pod 'LinkedinSDK', :path => '../'
+  
+  
+end
